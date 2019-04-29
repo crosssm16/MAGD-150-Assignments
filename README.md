@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# MAGD 150 Assignments
+## Readme File
 
-You can use the [editor on GitHub](https://github.com/crosssm16/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Here are assignments 1 through 5 for MAGD 150.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Assignment 1
 
-### Markdown
+[Static Composition in Black and White](https://github.com/crosssm16/MAGD-150-Assignments/blob/gh-pages/s19magd150lab01_cross/s19magd150lab01_cross.pde)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A black and white 2D composition using only simple shapes and grayscale color. I created a simple futuristic city skyline and drew my name using lines.
 
-```markdown
-Syntax highlighted code block
+## Assignment 2
 
-# Header 1
-## Header 2
-### Header 3
+[Color Composition](https://github.com/crosssm16/MAGD-150-Assignments/blob/gh-pages/s19magd150lab02_cross/s19magd150lab02_cross.pde)
 
-- Bulleted
-- List
+A composition using shapes and color. The theme was planets. I had a tough time trying to get two arcs to match up correctly to create a weird-looking planet, so I used two different shapes instead.
 
-1. Numbered
-2. List
+## Assignment 3
 
-**Bold** and _Italic_ and `Code` text
+[Math](https://github.com/crosssm16/MAGD-150-Assignments/blob/gh-pages/s19magd150lab03_cross/s19magd150lab03_cross.pde)
 
-[Link](url) and ![Image](src)
-```
+A composition created using addition and subtraction applied to shapes. The theme was bubbles, so I drew a bunch of multicolored bubbles that grow or shrink until they get to a certain size. There are also two that are mapped to the location of the mouse.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Assignment 4
 
-### Jekyll Themes
+[Dynamism](https://github.com/crosssm16/MAGD-150-Assignments/blob/gh-pages/s19magd150lab04_cross/s19magd150lab04_cross.pde)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crosssm16/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A composition using mouse-based interaction, if-else statements, and for/while loops. The theme was pizza, so I focused on adding toppings to a slice of pizza. The user can make green peppers or pepperoni appear by pressing G or P respectively. A dot of "sauce" also follows the mouse. My intention was to have the sauce appear permanently on the slice upon click, but I couldn't get this to work.
 
-### Support or Contact
+## Assignment 5
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Intersections](https://github.com/crosssm16/MAGD-150-Assignments/blob/gh-pages/s19magd150lab05_cross/bubbles.pde)
+
+A composition based on outer space that required mouse interaction and growing/shrinking of an object. I created a button that activates on click and makes an alien face appear. I wanted to have two buttons, one that makes it appear and one that makes it disappear, but I couldn't get this to work so I went with just one button.
+
